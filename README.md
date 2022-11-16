@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marcio,I'm 20 years old and I'm Brazilian.
+- 👀 I’m interested in find friends to study the same things and meet people who can help me in my development as a developer.
+- 🌱 I’m currently learning c language, and I want to learn as much as I can of all languages ​​to become a backend developer.
+- 💞️ I’m looking to collaborate on help whoever I can and be helped too.
+- 📫 How to reach me instagram: marciomartins_12 and email: mmarciom1martins635@gmail.com
