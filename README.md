@@ -10,8 +10,8 @@
 <div align="center" width="100%">
     <h3 align="center">Statistics</h3>
     <br>
-    <img width="70%" src="https://streak-stats.demolab.com/?user=marciomartins12&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
-    <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marciomartins12&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.marciomartins12_Statistics"/>  
+    <img width="0%" src="https://streak-stats.demolab.com/?user=marciomartins12&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
+    <img width="44%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=marciomartins12&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Dev.marciomartins12_Statistics"/>  
     <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marciomartins12&show_icons=true&locale=en&theme=transparent" alt="Dev.marciomartins12_Statistics"/>
 </div>
 
